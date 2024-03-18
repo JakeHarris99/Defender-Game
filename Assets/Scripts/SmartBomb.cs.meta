@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1c9cd7e61638c142b14f4d00061a410
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameCamera: {instanceID: 0}
+  - deathParticleSystem: {fileID: 198935441284506968, guid: 99186ee17ff029546bb400b9c056e6b8,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

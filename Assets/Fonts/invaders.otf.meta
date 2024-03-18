@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c2f592172b3e08a4294a9046baa2c0a4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Invaders
+  fontNames:
+  - Invaders
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 675ae230fec09984a82eeec54dc03b1c, type: 3}
+  - {fileID: 12800000, guid: 50c80c395cb786f41befd085a24b0010, type: 3}
+  - {fileID: 12800000, guid: 51db399e08690104ca43abda166152ec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
